@@ -1,45 +1,45 @@
 {
   "basics": {
-    "name": "Joaquin!",
+    "name": "Alberto Márquez Flores",
     "label": "Full-Stack developer with more than 15 years of experience & development content creator",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "email": "al.marquez.flores@gmail.com",
+    "phone": "+34 636 608 357",
+    "url": "https://www.linkedin.com/in/almarquezdev/",
+    "summary": "Application developer with +2 years of experience as a video game developer and former Technical Support for Riot Games. I live in Seville, Spain. I have worked in different environments: from solving technical inquiries to managing a whole team of different artists.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "address": "C/Miguel Mañara, nº9 4ºB",
+      "postalCode": "41004",
+      "city": "Seville",
       "countryCode": "ES",
       "region": "Spain"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "almarquezdev",
+        "url": "https://www.linkedin.com/in/almarquezdev/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "@AlMarDev_",
+        "url": "https://x.com/AlMarDev_"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "AlMarquezDev",
+        "url": "https://github.com/AlMarquezDev"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "name": "Monster Theater",
+      "position": "Art Lead | Pixel Artist",
+      "url": "https://monstertheater.games/",
+      "startDate": "05/03/2022",
+      "endDate": "28/03/2024",
+      "summary": "Lead pixel art animator and character designer for Atomic Owl. I managed the art team at Atomic Owl, overseeing all work, organizing objectives, and adjusting deadlines for each task.",
       "highlights": [
         "Started the company"
       ]
