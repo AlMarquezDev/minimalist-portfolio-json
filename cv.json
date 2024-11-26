@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Alberto Márquez Flores",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "label": "Application Developer and Pixel Artist with expertise in cross-platform application development, game design, and team leadership.",
     "image": "/AlbertoFotoCV.webp",
     "email": "al.marquez.flores@gmail.com",
     "phone": "+34 636 608 357",
     "url": "https://www.linkedin.com/in/almarquezdev/",
     "summary": "Application developer with +2 years of experience as a video game developer and former Technical Support for Riot Games. I live in Seville, Spain. I have worked in different environments: from solving technical inquiries to managing a whole team of different artists.",
     "location": {
-      "address": "C/Miguel Mañara, nº9 4ºB",
+      "address": "Miguel Mañara St., No. 9, 4th Floor, Apt. B",
       "postalCode": "41004",
       "city": "Seville",
       "countryCode": "ES",
@@ -37,32 +37,32 @@
       "name": "Monster Theater",
       "position": "Art Lead | Pixel Artist",
       "url": "https://monstertheater.games/",
-      "startDate": "2022-03-05",
-      "endDate": "2024-28-03",
+      "startDate": "2022-05-03",
+      "endDate": "2024-03-28",
       "summary": "Lead pixel art animator and character designer for Atomic Owl. I managed the art team at Atomic Owl, overseeing all work, organizing objectives, and adjusting deadlines for each task.",
       "highlights": [
-        "Started the company"
+        "Successfully coordinated art production workflows and deadlines."
       ]
     },
     {
       "name": "The Game Kitchen",
       "position": "Internships",
       "url": "https://thegamekitchen.com/",
-      "startDate": "2019-14-03",
-      "endDate": "2019-20-06",
+      "startDate": "2019-03-14",
+      "endDate": "2019-06-20",
       "summary": "Creating pixel art character sprites and animations.",
       "highlights": [
-        "Started the company"
+        "Designed and animated pixel art character sprites"
       ]
     },
     {
       "name": "Riot Games | Telus",
       "position": "Bilingual Player Support",
-      "startDate": "2019-02-12",
-      "endDate": "2020-30-11",
+      "startDate": "2019-12-02",
+      "endDate": "2020-11-30",
       "summary": "Technical and account support specialist for mobile and PC games, including League of Legends, VALORANT, Teamfight Tactics, Wild Rift, and Legends of Runeterra.",
       "highlights": [
-        "Started the company"
+        "Provided technical and account support for popular games such as League of Legends, VALORANT, and Wild Rift."
       ]
     }
   ],
@@ -140,7 +140,7 @@
     },
     {
       "name": "Python",
-      "level": "Intermediante",
+      "level": "Intermediate",
       "keywords": [
         "Software development", "Backend"
       ]
