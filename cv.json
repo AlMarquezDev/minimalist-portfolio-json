@@ -37,30 +37,30 @@
       "name": "Monster Theater",
       "position": "Art Lead | Pixel Artist",
       "url": "https://monstertheater.games/",
-      "startDate": "05/03/2022",
-      "endDate": "28/03/2024",
+      "startDate": "2022-03-05",
+      "endDate": "2024-28-03",
       "summary": "Lead pixel art animator and character designer for Atomic Owl. I managed the art team at Atomic Owl, overseeing all work, organizing objectives, and adjusting deadlines for each task.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "The Game Kitchen",
+      "position": "Internships",
+      "url": "https://thegamekitchen.com/",
+      "startDate": "2019-14-03",
+      "endDate": "2019-20-06",
+      "summary": "Creating pixel art character sprites and animations.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "Riot Games | Telus",
+      "position": "Bilingual Player Support",
+      "startDate": "2019-02-12",
+      "endDate": "2020-30-11",
+      "summary": "Technical and account support specialist for mobile and PC games, including League of Legends, VALORANT, Teamfight Tactics, Wild Rift, and Legends of Runeterra.",
       "highlights": [
         "Started the company"
       ]
@@ -68,226 +68,151 @@
   ],
   "references": [
     {
-      "name": "Joaquin Borrego Fernández",
+      "name": "David Erosa",
       "type": "Academic Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "url": "https://www.linkedin.com/in/daviderosagarcia/",
+      "position": "Teacher at Nuevas Profesionas and Productor at The Game Kitchen.",
       "contact": [
         "Phone: +34611223345",
-        "Email: VY5q8@example.com"
+        "Email: soulnet@gmail.com"
       ]
     },
     {
-      "name": "Alejandro Téllez",
+      "name": "Eldar Basic",
       "type": "Professional Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
+      "url": "https://www.linkedin.com/in/eldar-b-72611326/",
+      "position": "Studio Director at Monster Theater",
       "contact": [
-        "Phone: +34611223344",
-        "Email: Va5q8@example.com"
+        "Phone: +55 555 555 555",
+        "Email: eldartalks@gmail.com"
       ]
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": null,
+    "position": null,
+    "url": null,
+    "startDate": null,
+    "endDate": null,
+    "summary": null,
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      null
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "institution": "IES Vedruna",
+    "url": "https://vedrunasevilla.org/",
+    "area": "Cross-Platform Application Development",
+    "studyType": "Vocational Training",
+    "startDate": "2023-17-09",
+    "endDate": "2025-21-06",
+    "score": null,
     "courses": [
-      "DB1101 - Basic SQL"
+      null
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": null,
+    "date": null,
+    "awarder": null,
+    "summary": null
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": null,
+    "date": null,
+    "issuer": null,
+    "url": null
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": null,
+    "publisher": null,
+    "releaseDate": null,
+    "url": null,
+    "summary": null
   }],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": [
+        "Software development", "Backend"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediante",
+      "keywords": [
+        "Software development", "Backend"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Intermediate",
+      "keywords": [
+        "Software development", "Backend"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "level": "Beginner",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Beginner",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Web development", "Frontend"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
         "Bases de Datos", "SQL", "Database", "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Advanced",
+      "level": "Beginner",
       "keywords": [
         "Version control", "Colaboración", "Source code"
       ]
     },
     {
-      "name": "GitHub",
-      "level": "Advanced",
+      "name": "Android Studio",
+      "level": "Intermediate",
       "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
+        "Application development", "Backend"
       ]
     },
-    {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "Spanish",
       "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
     }
   ],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Art",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Piano",
+      "Illustration"
     ]
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Atomic Owl",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Pixel art-based single-player, side-scrolling roguelite that combines fast-paced platforming with dynamic hack-and-slash combat and a variety of weapons, powerups, and a demonic blade.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "Roguelite",
+        "Nintendo Switch",
+        "Steam",
+        "Xbox",
+        "Playstation 5"
       ],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
-      "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://advent.js/dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
-      "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://store.steampowered.com/app/2228490/Atomic_Owl/"
     }
   ]
 }
