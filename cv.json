@@ -89,14 +89,14 @@
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": "",
+    "position": "",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      ""
     ]
   }],
   "education": [{
@@ -106,9 +106,9 @@
     "studyType": "Vocational Training",
     "startDate": "2023-09-17",
     "endDate": "2025-06-21",
-    "score": "4.0",
+    "score": "",
     "courses": [
-      "DB1101 - Basic SQL"
+      ""
     ]
   }],
   "awards": [{
@@ -118,22 +118,22 @@
     "summary": ""
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "",
+    "date": "",
+    "issuer": "",
+    "url": ""
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "url": "",
+    "summary": ""
   }],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
+      "name": "Java",
+      "level": "Advanced",
       "keywords": [
         "Web development", "Frontend"
       ]
