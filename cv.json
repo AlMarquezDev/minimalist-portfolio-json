@@ -89,14 +89,14 @@
     }
   ],
   "volunteer": [{
-    "organization": null,
-    "position": null,
-    "url": null,
-    "startDate": null,
-    "endDate": null,
-    "summary": null,
+    "organization": "",
+    "position": "",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
     "highlights": [
-      null
+      ""
     ]
   }],
   "education": [{
@@ -106,29 +106,29 @@
     "studyType": "Vocational Training",
     "startDate": "2023-17-09",
     "endDate": "2025-21-06",
-    "score": null,
+    "score": "",
     "courses": [
-      null
+      ""
     ]
   }],
   "awards": [{
-    "title": null,
-    "date": null,
-    "awarder": null,
-    "summary": null
+    "title": "",
+    "date": "",
+    "awarder": "",
+    "summary": ""
   }],
   "certificates": [{
-    "name": null,
-    "date": null,
-    "issuer": null,
-    "url": null
+    "name": "",
+    "date": "",
+    "issuer": "",
+    "url": ""
   }],
   "publications": [{
-    "name": null,
-    "publisher": null,
-    "releaseDate": null,
-    "url": null,
-    "summary": null
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "url": "",
+    "summary": ""
   }],
   "skills": [
     {
