@@ -6,7 +6,7 @@
     "email": "al.marquez.flores@gmail.com",
     "phone": "+34 636 608 357",
     "url": "https://www.linkedin.com/in/almarquezdev/",
-    "summary": "Application developer with +2 years of experience as a video game developer and former Technical Support for Riot Games. I live in Seville, Spain. I have worked in different environments: from solving technical inquiries to managing a whole team of different artists.",
+    "summary": "Application developer with over 2 years of experience as a video game developer and former Technical Support for Riot Games. I live in Seville, Spain, and have worked in different environments: from solving technical inquiries to managing a team of diverse artists.",
     "location": {
       "address": "Miguel Mañara St., No. 9, 4th Floor, Apt. B",
       "postalCode": "41004",
@@ -39,20 +39,22 @@
       "url": "https://monstertheater.games/",
       "startDate": "2022-05-03",
       "endDate": "2024-03-28",
-      "summary": "Lead pixel art animator and character designer for Atomic Owl. I managed the art team at Atomic Owl, overseeing all work, organizing objectives, and adjusting deadlines for each task.",
+      "summary": "Lead pixel art animator and character designer for Atomic Owl. Managed the art team, overseeing all work, organizing objectives, and adjusting deadlines.",
       "highlights": [
-        "Successfully coordinated art production workflows and deadlines."
+        "Coordinated art production workflows and deadlines.",
+        "Designed and animated key character sprites for the project."
       ]
     },
     {
       "name": "The Game Kitchen",
-      "position": "Internships",
+      "position": "Intern",
       "url": "https://thegamekitchen.com/",
       "startDate": "2019-03-14",
       "endDate": "2019-06-20",
-      "summary": "Creating pixel art character sprites and animations.",
+      "summary": "Created pixel art character sprites and animations for indie games.",
       "highlights": [
-        "Designed and animated pixel art character sprites"
+        "Contributed to the development of high-quality character animations.",
+        "Worked closely with designers to maintain artistic consistency."
       ]
     },
     {
@@ -60,9 +62,10 @@
       "position": "Bilingual Player Support",
       "startDate": "2019-12-02",
       "endDate": "2020-11-30",
-      "summary": "Technical and account support specialist for mobile and PC games, including League of Legends, VALORANT, Teamfight Tactics, Wild Rift, and Legends of Runeterra.",
+      "summary": "Provided technical and account support for mobile and PC games, including League of Legends, VALORANT, and Wild Rift.",
       "highlights": [
-        "Provided technical and account support for popular games such as League of Legends, VALORANT, and Wild Rift."
+        "Resolved technical issues for a diverse player base in English and Spanish.",
+        "Improved player satisfaction through proactive problem-solving."
       ]
     }
   ],
@@ -71,7 +74,7 @@
       "name": "David Erosa",
       "type": "Academic Reference",
       "url": "https://www.linkedin.com/in/daviderosagarcia/",
-      "position": "Teacher at Nuevas Profesionas and Productor at The Game Kitchen.",
+      "position": "Teacher at Nuevas Profesiones and Producer at The Game Kitchen",
       "contact": [
         "Phone: +34611223345",
         "Email: soulnet@gmail.com"
@@ -88,129 +91,88 @@
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "",
-    "position": "",
-    "url": "",
-    "startDate": "",
-    "endDate": "",
-    "summary": "",
-    "highlights": [
-      ""
-    ]
-  }],
-  "education": [{
-    "institution": "IES Vedruna",
-    "url": "https://vedrunasevilla.org/",
-    "area": "Cross-Platform Application Development",
-    "studyType": "Vocational Training",
-    "startDate": "2023-17-09",
-    "endDate": "2025-21-06",
-    "score": "",
-    "courses": [
-      ""
-    ]
-  }],
-  "awards": [{
-    "title": "",
-    "date": "",
-    "awarder": "",
-    "summary": ""
-  }],
-  "certificates": [{
-    "name": "",
-    "date": "",
-    "issuer": "",
-    "url": ""
-  }],
-  "publications": [{
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "url": "",
-    "summary": ""
-  }],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "IES Vedruna",
+      "url": "https://vedrunasevilla.org/",
+      "area": "Cross-Platform Application Development",
+      "studyType": "Vocational Training",
+      "startDate": "2023-09-17",
+      "endDate": "2025-06-21",
+      "score": null,
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
       "name": "Java",
       "level": "Intermediate",
-      "keywords": [
-        "Software development", "Backend"
-      ]
+      "keywords": ["Software development", "Backend"]
     },
     {
       "name": "Python",
       "level": "Intermediate",
-      "keywords": [
-        "Software development", "Backend"
-      ]
+      "keywords": ["Software development", "Backend"]
     },
     {
       "name": "C#",
       "level": "Intermediate",
-      "keywords": [
-        "Software development", "Backend"
-      ]
+      "keywords": ["Software development", "Backend"]
     },
     {
       "name": "HTML5",
       "level": "Beginner",
-      "keywords": [
-        "Web development", "Frontend"
-      ]
+      "keywords": ["Web development", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Beginner",
-      "keywords": [
-        "Web development", "Frontend"
-      ]
+      "keywords": ["Web development", "Frontend"]
     },
     {
       "name": "MySQL",
       "level": "Intermediate",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
+      "keywords": ["Databases", "SQL", "Backend"]
     },
     {
       "name": "Git",
       "level": "Beginner",
-      "keywords": [
-        "Version control", "Colaboración", "Source code"
-      ]
+      "keywords": ["Version control", "Collaboration", "Source code"]
     },
     {
       "name": "Android Studio",
       "level": "Intermediate",
-      "keywords": [
-        "Application development", "Backend"
-      ]
-    },
+      "keywords": ["Application development", "Mobile"]
+    }
+  ],
   "languages": [
     {
       "language": "Spanish",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Art",
-    "keywords": [
-      "Piano",
-      "Illustration"
-    ]
-  }],
+  "interests": [
+    {
+      "name": "Art",
+      "keywords": ["Piano", "Illustration"]
+    }
+  ],
   "projects": [
     {
       "name": "Atomic Owl",
       "isActive": true,
-      "description": "Pixel art-based single-player, side-scrolling roguelite that combines fast-paced platforming with dynamic hack-and-slash combat and a variety of weapons, powerups, and a demonic blade.",
+      "description": "Pixel art-based single-player, side-scrolling roguelite that combines fast-paced platforming with dynamic hack-and-slash combat.",
       "highlights": [
-        "Roguelite",
-        "Nintendo Switch",
-        "Steam",
-        "Xbox",
-        "Playstation 5"
+        "Available on Nintendo Switch, Steam, Xbox, and PlayStation 5.",
+        "Developed with a focus on engaging gameplay and unique art style."
       ],
       "url": "https://store.steampowered.com/app/2228490/Atomic_Owl/"
     }
