@@ -130,47 +130,47 @@
     "url": "",
     "summary": ""
   }],
-  "skills": [
-    {
-      "name": "Java",
-      "level": "Advanced",
-      "keywords": [
-        "Software development", "Backend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
-      ]
-    },
+    "skills": [
     {
       "name": "HTML",
-      "level": "Advanced",
+      "level": "Master",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
-      "name": "Python",
-      "level": "Advanced",
+      "name": "CSS",
+      "level": "Master",
       "keywords": [
-        "Software development", "Backend"
+        "Web development", "Frontend", "Diseño Responsive"
       ]
     },
     {
-      "name": "C#",
-      "level": "Advanced",
+      "name": "JavaScript",
+      "level": "Master",
       "keywords": [
-        "Unity development", "Backend"
+        "Web development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
-      "name": "Angular",
+      "name": "Tailwind",
       "level": "Advanced",
       "keywords": [
-        "Web development", "FullStack"
+        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "JavaScript", "Servidor"
       ]
     },
     {
@@ -195,17 +195,17 @@
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "Next.js",
       "level": "Advanced",
       "keywords": [
-        "FullStack development", "Angular Framework"
+        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
-      "name": "Spring Boot",
+      "name": "React",
       "level": "Advanced",
       "keywords": [
-        "FullStack development"
+        "Web development", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
