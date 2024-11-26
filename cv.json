@@ -1,90 +1,90 @@
 {
   "basics": {
-    "name": "Joaquin!",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Alberto Márquez Flores",
+    "label": "Application Developer and Pixel Artist with expertise in cross-platform application development, game design, and team leadership.",
     "image": "/AlbertoFotoCV.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "email": "al.marquez.dev@gmail.com",
+    "phone": "+34 636608357",
+    "url": "https://www.linkedin.com/in/almarquezdev/",
+    "summary": "Application developer with over 2 years of experience as a video game developer and former Technical Support for Riot Games. I live in Seville, Spain, and have worked in different environments: from solving technical inquiries to managing a team of diverse artists.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "address": "Miguel Mañara St., No. 9, 4th Floor, Apt. B",
+      "postalCode": "41004",
+      "city": "Seville",
       "countryCode": "ES",
       "region": "Spain"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "almarquezdev",
+        "url": "https://www.linkedin.com/in/almarquezdev/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "AlMarDev_",
+        "url": "https://x.com/AlMarDev_"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "AlMarquezDev",
+        "url": "https://github.com/AlMarquezDev"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "name": "Monster Theater",
+      "position": "Art Lead | Pixel Artist",
+      "url": "https://monstertheater.games/",
+      "startDate": "2022-05-03",
+      "endDate": "2024-03-28",
+      "summary": "Lead pixel art animator and character designer for Atomic Owl. Managed the art team, overseeing all work, organizing objectives, and adjusting deadlines",
       "highlights": [
-        "Started the company"
+        "Coordinated art production workflows and deadlines."
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "The Game Kitchen",
+      "position": "Internships",
+      "url": "https://thegamekitchen.com/",
+      "startDate": "2019-03-14",
+      "endDate": "2019-06-20",
+      "summary": "Created pixel art character sprites and animations for indie games.",
       "highlights": [
-        "Started the company"
+        "Designed and animated character sprites."
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "Riot Games | Telus",
+      "position": "Bilingual Player Support",
+      "startDate": "2019-12-02",
+      "endDate": "2020-11-30",
+      "summary": "Provided technical and account support for mobile and PC games, including League of Legends, VALORANT, and Wild Rift.",
       "highlights": [
-        "Started the company"
+        "Solved technical issues for a diverse player base in English and Spanish."
       ]
     }
   ],
   "references": [
     {
-      "name": "Joaquin Borrego Fernández",
+      "name": "David Erosa",
       "type": "Academic Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "url": "https://www.linkedin.com/in/daviderosagarcia/",
+      "position": "Teacher at Nuevas Profesiones and Producer at The Game Kitchen",
       "contact": [
         "Phone: +34611223345",
-        "Email: VY5q8@example.com"
+        "Email: soulnet@gmail.com"
       ]
     },
     {
-      "name": "Alejandro Téllez",
+      "name": "Eldar Basic",
       "type": "Professional Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
+      "url": "https://www.linkedin.com/in/eldar-b-72611326/",
+      "position": "Studio Director at Monster Theater",
       "contact": [
         "Phone: +34611223344",
-        "Email: Va5q8@example.com"
+        "Email: eldartalks@gmail.com"
       ]
     }
   ],
@@ -100,12 +100,12 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "institution": "IES Vedruna",
+    "url": "https://vedrunasevilla.org/",
+    "area": "Cross-Platform Application Development",
+    "studyType": "Vocational Training",
+    "startDate": "2023-09-17",
+    "endDate": "2025-06-21",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -220,10 +220,10 @@
     }
   ],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Art",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Piano",
+      "Illustration"
     ]
   }],
   "projects": [
