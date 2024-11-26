@@ -146,17 +146,17 @@
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "Java",
       "level": "Master",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "Software development", "Backend", "Fullstack"
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "Spring Boot",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web development", "Frontend", "Backend"
       ]
     },
     {
@@ -167,10 +167,10 @@
       ]
     },
     {
-      "name": "Node",
+      "name": "Angular",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Web development", "Backend", "TypeScript", "Frontend"
       ]
     },
     {
@@ -195,17 +195,17 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Python",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Software development", "Backend"
       ]
     },
     {
-      "name": "React",
+      "name": "C#",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        "Unity development", "Backend"
       ]
     }
   ],
@@ -220,74 +220,74 @@
     }
   ],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Arts",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Piano",
+      "Illustrations"
     ]
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Atomic Owl",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Atomic Owl is a pixel art-based single-player, side-scrolling roguelite that combines fast-paced platforming with dynamic hack-and-slash combat and a variety of weapons, powerups, and a demonic blade.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "Roguelite",
+        "Steam"
       ],
-      "url": "https://mars.codes"
+      "url": "https://store.steampowered.com/app/2228490/Atomic_Owl/"
     },
     {
-      "name": "AdventJS",
+      "name": "",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "",
+        "",
+        ""
       ],
-      "url": "https://advent.js/dev"
+      "url": ""
     },
     {
-      "name": "Codember",
+      "name": "",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": "",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "",
+        ""
       ],
-      "url": "https://codember.dev"
+      "url": ""
     },
     {
-      "name": "codi.link",
+      "name": "",
       "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "description": "",
       "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
+        "",
+        ""
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "",
       "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
+      "description": "",
       "highlights": [
-        "100% free",
-        "+500 community solutions"
+        "",
+        ""
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "name": "",
+      "description": "",
       "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
+        "",
+        ""
       ],
-      "url": "https://miduconf.com"
+      "url": ""
     }
   ]
 }
