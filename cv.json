@@ -1,152 +1,212 @@
 {
   "basics": {
-    "name": "Alberto Márquez Flores",
-    "label": "Application Developer and Pixel Artist with expertise in cross-platform application development, game design, and team leadership.",
+    "name": "Joaquin!",
+    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
     "image": "/AlbertoFotoCV.webp",
-    "email": "al.marquez.flores@gmail.com",
-    "phone": "+34 636 608 357",
-    "url": "https://www.linkedin.com/in/almarquezdev/",
-    "summary": "Application developer with over 2 years of experience as a video game developer and former Technical Support for Riot Games. I live in Seville, Spain, and have worked in different environments: from solving technical inquiries to managing a team of diverse artists.",
+    "email": "miduga@gmail.com",
+    "phone": "+34 688888888",
+    "url": "https://midu.dev",
+    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
     "location": {
-      "address": "Miguel Mañara St., No. 9, 4th Floor, Apt. B",
-      "postalCode": "41004",
-      "city": "Seville",
+      "address": "",
+      "postalCode": "08820",
+      "city": "el Prat de Llobregat",
       "countryCode": "ES",
       "region": "Spain"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "almarquezdev",
-        "url": "https://www.linkedin.com/in/almarquezdev/"
+        "username": "midudev",
+        "url": "https://linkedin.com/in/midudev"
       },
       {
         "network": "X",
-        "username": "@AlMarDev_",
-        "url": "https://x.com/AlMarDev_"
+        "username": "midudev",
+        "url": "https://x.com/midudev"
       },
       {
         "network": "GitHub",
-        "username": "AlMarquezDev",
-        "url": "https://github.com/AlMarquezDev"
+        "username": "midudev",
+        "url": "https://github.com/midudev"
       }
     ]
   },
   "work": [
     {
-      "name": "Monster Theater",
-      "position": "Art Lead | Pixel Artist",
-      "url": "https://monstertheater.games/",
-      "startDate": "2022-05-03",
-      "endDate": "2024-03-28",
-      "summary": "Lead pixel art animator and character designer for Atomic Owl. Managed the art team, overseeing all work, organizing objectives, and adjusting deadlines.",
+      "name": "midudev",
+      "position": "Web programming communicator",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
       "highlights": [
-        "Coordinated art production workflows and deadlines.",
-        "Designed and animated key character sprites for the project."
+        "Started the company"
       ]
     },
     {
-      "name": "The Game Kitchen",
-      "position": "Intern",
-      "url": "https://thegamekitchen.com/",
-      "startDate": "2019-03-14",
-      "endDate": "2019-06-20",
-      "summary": "Created pixel art character sprites and animations for indie games.",
+      "name": "Adevinta",
+      "position": "Lead Frontend Architect",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2016-06-01",
+      "endDate": "2022-09-01",
+      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
       "highlights": [
-        "Contributed to the development of high-quality character animations.",
-        "Worked closely with designers to maintain artistic consistency."
+        "Started the company"
       ]
     },
     {
-      "name": "Riot Games | Telus",
-      "position": "Bilingual Player Support",
-      "startDate": "2019-12-02",
-      "endDate": "2020-11-30",
-      "summary": "Provided technical and account support for mobile and PC games, including League of Legends, VALORANT, and Wild Rift.",
+      "name": "Hubii",
+      "position": "Senior FrontEnd Developer",
+      "startDate": "2011-03-01",
+      "endDate": "2016-05-01",
+      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
       "highlights": [
-        "Resolved technical issues for a diverse player base in English and Spanish.",
-        "Improved player satisfaction through proactive problem-solving."
+        "Started the company"
       ]
     }
   ],
   "references": [
     {
-      "name": "David Erosa",
+      "name": "Joaquin Borrego Fernández",
       "type": "Academic Reference",
-      "url": "https://www.linkedin.com/in/daviderosagarcia/",
-      "position": "Teacher at Nuevas Profesiones and Producer at The Game Kitchen",
+      "url": "https://twitch.tv/midudev",
+      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
       "contact": [
         "Phone: +34611223345",
-        "Email: soulnet@gmail.com"
+        "Email: VY5q8@example.com"
       ]
     },
     {
-      "name": "Eldar Basic",
+      "name": "Alejandro Téllez",
       "type": "Professional Reference",
-      "url": "https://www.linkedin.com/in/eldar-b-72611326/",
-      "position": "Studio Director at Monster Theater",
+      "url": "https://twitch.tv/midudev",
+      "position": "Analyst at NTT DATA.",
       "contact": [
-        "Phone: +55 555 555 555",
-        "Email: eldartalks@gmail.com"
+        "Phone: +34611223344",
+        "Email: Va5q8@example.com"
       ]
     }
   ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "IES Vedruna",
-      "url": "https://vedrunasevilla.org/",
-      "area": "Cross-Platform Application Development",
-      "studyType": "Vocational Training",
-      "startDate": "2023-09-17",
-      "endDate": "2025-06-21",
-      "score": null,
-      "courses": []
-    }
-  ],
-  "awards": [],
-  "certificates": [],
-  "publications": [],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universitat Oberta de Catalunya",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Software Engineer",
+    "studyType": "Bachelor",
+    "startDate": "2003-01-01",
+    "endDate": "2009-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
   "skills": [
     {
-      "name": "Java",
-      "level": "Intermediate",
-      "keywords": ["Software development", "Backend"]
-    },
-    {
-      "name": "Python",
-      "level": "Intermediate",
-      "keywords": ["Software development", "Backend"]
-    },
-    {
-      "name": "C#",
-      "level": "Intermediate",
-      "keywords": ["Software development", "Backend"]
-    },
-    {
-      "name": "HTML5",
-      "level": "Beginner",
-      "keywords": ["Web development", "Frontend"]
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend"
+      ]
     },
     {
       "name": "CSS",
-      "level": "Beginner",
-      "keywords": ["Web development", "Frontend"]
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "JavaScript", "Servidor"
+      ]
     },
     {
       "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": ["Databases", "SQL", "Backend"]
+      "level": "Advanced",
+      "keywords": [
+        "Bases de Datos", "SQL", "Database", "Backend"
+      ]
     },
     {
       "name": "Git",
-      "level": "Beginner",
-      "keywords": ["Version control", "Collaboration", "Source code"]
+      "level": "Advanced",
+      "keywords": [
+        "Version control", "Colaboración", "Source code"
+      ]
     },
     {
-      "name": "Android Studio",
-      "level": "Intermediate",
-      "keywords": ["Application development", "Mobile"]
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Version control", "Collaboration", "Source code", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
     }
   ],
   "languages": [
@@ -159,22 +219,75 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [
-    {
-      "name": "Art",
-      "keywords": ["Piano", "Illustration"]
-    }
-  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
   "projects": [
     {
-      "name": "Atomic Owl",
+      "name": "mars.codes",
       "isActive": true,
-      "description": "Pixel art-based single-player, side-scrolling roguelite that combines fast-paced platforming with dynamic hack-and-slash combat.",
+      "description": "Interactive story with programming challenges to travel to Mars",
       "highlights": [
-        "Available on Nintendo Switch, Steam, Xbox, and PlayStation 5.",
-        "Developed with a focus on engaging gameplay and unique art style."
+        "Choose your own adventure",
+        "In progress"
       ],
-      "url": "https://store.steampowered.com/app/2228490/Atomic_Owl/"
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "highlights": [
+        "+1 million visits",
+        "Multilanguage",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://advent.js/dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Interactive programming game with challenges and secrets",
+      "highlights": [
+        "+2000 active users",
+        "Challenges for any language"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "highlights": [
+        "100k monthly visit",
+        "Developed by the community"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "List of technical tests of companies to practice programming",
+      "highlights": [
+        "100% free",
+        "+500 community solutions"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "highlights": [
+        "+15k tickets handed over",
+        "+50k live viewers"
+      ],
+      "url": "https://miduconf.com"
     }
   ]
 }
