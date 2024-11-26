@@ -135,7 +135,7 @@
       "name": "Java",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend"
+        "Software development", "Backend"
       ]
     },
     {
@@ -149,28 +149,28 @@
       "name": "HTML",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "Web development", "Frontend"
       ]
     },
     {
       "name": "Python",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Software development", "Backend"
       ]
     },
     {
       "name": "C#",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        "Unity development", "Backend"
       ]
     },
     {
       "name": "Angular",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Web development", "FullStack"
       ]
     },
     {
@@ -198,14 +198,14 @@
       "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "FullStack development", "Angular Framework"
       ]
     },
     {
       "name": "Spring Boot",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        "FullStack development"
       ]
     }
   ],
@@ -236,47 +236,6 @@
         "Steam"
       ],
       "url": "https://store.steampowered.com/app/2228490/Atomic_Owl/"
-    },
-    {
-      "name": "",
-      "isActive": true,
-      "description": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ],
-      "url": ""
-    },
-    {
-      "name": "",
-      "isActive": true,
-      "description": "",
-      "highlights": [
-        "",
-        ""
-      ],
-      "url": ""
-    },
-    {
-      "name": "",
-      "isActive": true,
-      "description": "",
-      "highlights": [
-        "",
-        ""
-      ],
-      "url": "",
-      "github": ""
-    },
-    {
-      "name": "",
-      "description": "",
-      "highlights": [
-        "",
-        ""
-      ],
-      "url": ""
     }
   ]
 }
